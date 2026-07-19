@@ -94,7 +94,13 @@ fun_fact: "I debug PostgreSQL Docker volumes for fun (unfortunately, on purpose)
 > ⚠️ Note: LeetCode doesn't expose a public API, so this card (and heatmap) is powered by a community-maintained service. If it ever stops rendering, it means the third-party service is down — that's normal for LeetCode cards specifically (see the Deployment Guide for the fallback option).
 
 ---
+## 🐍 Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nithin-arthub/nithin-arthub/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nithin-arthub/nithin-arthub/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/nithin-arthub/nithin-arthub/output/github-contribution-grid-snake.svg">
+</picture>
 ### 🚀 Featured Projects
 
 <div align="center">
